@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="final-project-saikt.cpp" />
+    <ClCompile Include="Live.cpp" />
+    <ClCompile Include="Point.cpp" />
+    <ClCompile Include="Item.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="perling.cpp" />
+    <ClCompile Include="file_worker.cpp" />
+    <ClCompile Include="keyReader.cpp" />
+    <ClCompile Include="camera.cpp" />
+    <ClCompile Include="ReadMap.cpp" />
+    <ClCompile Include="controller.cpp" />
+    <ClCompile Include="drawer.cpp" />
+    <ClCompile Include="chestGen.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="Chest.cpp" />
+    <ClCompile Include="Menu.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Live.h" />
+    <ClInclude Include="Point.h" />
+    <ClInclude Include="Item.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="perling.h" />
+    <ClInclude Include="file_worker.h" />
+    <ClInclude Include="keyReader.h" />
+    <ClInclude Include="camera.h" />
+    <ClInclude Include="ReadMap.h" />
+    <ClInclude Include="controller.h" />
+    <ClInclude Include="drawer.h" />
+    <ClInclude Include="chestGen.h" />
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="Chest.h" />
+    <ClInclude Include="Menu.h" />
+  </ItemGroup>
+</Project>
